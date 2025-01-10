@@ -1,0 +1,186 @@
+{
+    "personalInfo": {
+      "name": "Niharika Saxena Dhande",
+      "title": "Software Engineer",
+      "photoUrl": "/logos/MyPhoto.png",
+      "contact": {
+        "phone": "9584254666",
+        "email": "niharikadhande1@gmail.com",
+        "linkedin": "https://linkedin.com/in/niharika-dhande-96b68822",
+        "github": "https://github.com/niharika-dhande"
+      }
+    },
+    "professionalSummary": "Results-driven Software Engineer with 10+ years of experience in designing and implementing innovative software solutions. Expertise in C#, ASP.NET Core, Angular, and AI-driven tools. Skilled in developing scalable microservices and optimizing workflows through AI integration. Proven track record in team leadership and delivering high-quality products on time and within budget.",
+    "skills": [
+      {
+        "category": "Languages",
+        "items":
+        [
+          {
+            "item": "C#",
+            "level": ""
+          },
+          {
+            "item": "JavaScript",
+            "level": ""
+          },
+          {
+            "item": "TypeScript",
+            "level": ""
+          },
+          {
+            "item": "SQL",
+            "level": ""
+          }
+      ]
+      },
+      {
+        "category": "Frameworks & Libraries",
+        "items": [{
+          "item": "ASP.NET Core",
+          "level": ""
+        },
+        {
+          "item": "ASP.NET MVC",
+          "level": ""
+        },
+        {
+          "item": "Angular",
+          "level": ""
+        },
+        {
+          "item": "Entity Framework",
+          "level": ""
+        }]
+      },
+      {
+        "category": "Tools & Technologies",
+        "items": [{
+          "item": "Visual Studio",
+          "level": ""
+        },
+        {
+          "item": "SQL Server",
+          "level": ""
+        },
+        {
+          "item": "RESTful APIs",
+          "level": ""
+        },
+        {
+          "item": "Microservices",
+          "level": ""
+        },
+        {
+          "item": "Unit Testing",
+          "level": ""
+        }]
+      },
+      {
+        "category": "AI & Automation",
+        "items": [
+          {
+            "item": "AI-driven Development",
+            "level": ""
+          },
+          {
+            "item": "Chrome Extension Development",
+            "level": ""
+          }]
+      },
+      {
+        "category": "Methodologies",
+        "items": [{
+          "item": "Agile Methodologies",
+          "level": ""
+        },
+        {
+          "item": "Scrum",
+          "level": ""
+        }]
+      }
+    
+    ],
+    "experience": [
+      {
+        "title": "Software Engineer",
+        "company": "Gate6 Technologies Pvt. Ltd.",
+        "location": "Indore",
+        "period": "Feb 2024 – Present",
+        "achievements": [
+          "Developed a Chrome extension, increasing operational efficiency by 20%",
+          "Implemented microservices architecture for ASP.NET Core Web API, reducing system downtime by 30%",
+          "Utilized AI tools to optimize processes, enhancing work productivity by 10x"
+        ]
+      },
+      {
+        "title": "Individual Coordinator (Product Owner)",
+        "company": "Dhande Creative",
+        "location": "Indore",
+        "period": "Jan 2020 – Dec 2023",
+        "achievements": [
+          "Managed end-to-end product development, client acquisition, and stakeholder engagement",
+          "Designed UX interfaces and converted designs to HTML using AI tools",
+          "Implemented Generative AI solutions, reducing design-to-development time by 50%"
+        ]
+      },
+      {
+        "title": "Lead Software Engineer",
+        "company": "Cyber Infrastructure Pvt. Ltd.",
+        "location": "Indore",
+        "period": "Dec 2017 – July 2018",
+        "achievements": [
+          "Led Angular 6 application feature development, improving delivery timelines by 20%",
+          "Trained a team of 5 developers in Angular 6"
+        ]
+      },
+      {
+        "title": "Previous Roles",
+        "positions": [
+          "Senior Software Engineer at Galaxy Weblink Ltd. (Apr 2017 – Nov 2017)",
+          "Software Engineer at Infobeans Technologies Pvt. Ltd. (Aug 2015 – Nov 2016)",
+          "Junior Software Engineer & Trainer at Gate6 Technologies Pvt. Ltd. (July 2013 – Aug 2015)",
+          ".NET Trainer at NIIT Ltd., Bhopal (July 2010 – May 2013)"
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "name": "Hospital Management System",
+        "description": "Developed APIs, microservices, and Angular frontend modules"
+      },
+      {
+        "name": "Pharmaceutical Management System",
+        "description": "Built scalable microservices and responsive Angular components"
+      },
+      {
+        "name": "Lab/Diagnostic Management System",
+        "description": "Designed APIs and implemented Angular-based UI features"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Certified ScrumMaster® (CSM)",
+        "institution": "Scrum Alliance",
+        "year": 2023,
+        "link":"https://certification.scrumalliance.org/accounts/1610565-niharika-dhande/certifications/1894098-csm"
+      },
+      {
+        "degree": "GNIIT (Diploma in Software Engineering)",
+        "institution": "NIIT Education Center, Bhopal",
+        "year": 2012
+      },
+      {
+        "degree": "B.Sc. (Biotechnology)",
+        "institution": "Barkatullah University, Bhopal",
+        "year": 2010
+      },
+      {
+        "degree": "12th (Biology)",
+        "institution": "State Board, Bhopal",
+        "year": 2007
+      }
+    ]
+  }
+  
+  
